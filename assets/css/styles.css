@@ -1,0 +1,102 @@
+h1, h2, p {
+    color: #ffff
+}
+header {
+    background-color: #000000;
+}
+
+.desc-section, .seccion_3 {
+    background-color: #000000;
+}
+.icons-section, footer{
+    background-color: #1E1A13;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'raleway', sans-serif;
+    background-color: #000000;
+}
+ header h1{
+    text-align: center;
+    font-size: 52px;
+    padding: 20px;
+    margin: 0px;
+ }
+ 
+ .icons-section{
+    text-align: center;
+    font-weight: 300;
+ }
+ .caract h2{
+    text-align: center;
+ }
+ .header_iguana img{
+    width: 100%;
+ }
+
+
+ .igu-desc{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 348px;
+ }
+ .iguana1 img{
+    width: 399px ;
+    height: 237px;
+    margin-left: 106px ;
+ }
+ .desc-section_texto {
+    display: block;
+    font-size: 16px;
+    text-align: left;
+    width: 475px ;
+    height: 197px;
+    margin-left: 20px;
+     }
+.icons-section{
+    height: 348px;
+}
+.icons-section h2{
+    font-size: 40px;
+    padding-top: 60px;
+}
+    .caract {
+        display: flex;
+        justify-content: space-between;
+    }
+    .caract article {
+        flex-basis: 40%; 
+    }  
+    .fa-eye,
+    .fa-hand-peace,
+    .fa-paintbrush {
+        font-size: 46px;
+        margin-bottom: 10px;
+        text-align: center; 
+    }
+    .car {
+        text-align: center;
+    }
+.centrado{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 348px;
+
+}
+.alinear img {
+    width: 316px;
+    height: 202px;
+    margin: 8px ;
+}
+footer{
+    display: flex;
+    height:102px ;
+    padding: 0px;
+    margin: 0px;
+    justify-content: center;
+    align-items: center; 
+}
